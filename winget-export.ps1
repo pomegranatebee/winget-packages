@@ -1,1 +1,1 @@
-winget export -o winget-packages.json
+winget export -o winget-packages.json --include-versions

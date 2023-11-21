@@ -1,0 +1,1 @@
+winget export -o winget-packages.json

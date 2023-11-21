@@ -1,2 +1,2 @@
 # winget-packages
-Export of my winget packages for restore on a fresh machine
+The Powershell script *winget-export.ps1* will export a list of current winget packages to a file, *winget-packages.json*. This .json can be imported to a new machine to install the same list of packages.

@@ -1,257 +1,254 @@
 {
-	"$schema": "https://aka.ms/winget-packages.schema.2.0.json",
-	"CreationDate": "2023-11-21T12:17:08.253-00:00",
-	"Sources": [
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2025-04-01T20:20:30.303-00:00",
+	"Sources" : 
+	[
 		{
-			"Packages": [
+			"Packages" : 
+			[
 				{
-					"PackageIdentifier": "7zip.7zip",
-					"Version": "23.01"
+					"PackageIdentifier" : "Reolink.Reolink"
 				},
 				{
-					"PackageIdentifier": "AgileBits.1Password",
-					"Version": "8.10.20"
+					"PackageIdentifier" : "CoreyButler.NVMforWindows"
 				},
 				{
-					"PackageIdentifier": "AirVPN.Eddie",
-					"Version": "Unknown"
+					"PackageIdentifier" : "7zip.7zip"
 				},
 				{
-					"PackageIdentifier": "Amazon.Kindle",
-					"Version": "2.2.0.70623"
+					"PackageIdentifier" : "Audacity.Audacity"
 				},
 				{
-					"PackageIdentifier": "Asana.Asana",
-					"Version": "2.1.0"
+					"PackageIdentifier" : "Docker.DockerDesktop"
 				},
 				{
-					"PackageIdentifier": "Balena.Etcher",
-					"Version": "1.18.11"
+					"PackageIdentifier" : "Git.Git"
 				},
 				{
-					"PackageIdentifier": "CoreyButler.NVMforWindows",
-					"Version": "1.1.11"
+					"PackageIdentifier" : "Logitech.LogiBolt"
 				},
 				{
-					"PackageIdentifier": "DaxStudio.DaxStudio",
-					"Version": "3.0.10.962"
+					"PackageIdentifier" : "Mozilla.Firefox"
 				},
 				{
-					"PackageIdentifier": "Dropbox.Dropbox",
-					"Version": "187.4.5691"
+					"PackageIdentifier" : "FlorianHeidenreich.Mp3tag"
 				},
 				{
-					"PackageIdentifier": "DuckDuckGo.DesktopBrowser",
-					"Version": "0.58.1.0"
+					"PackageIdentifier" : "Microsoft.Office"
 				},
 				{
-					"PackageIdentifier": "Git.Git",
-					"Version": "2.42.0.2"
+					"PackageIdentifier" : "Microsoft.OneDrive"
 				},
 				{
-					"PackageIdentifier": "Intel.IntelDriverAndSupportAssistant",
-					"Version": "23.4.39.9"
+					"PackageIdentifier" : "Cockos.REAPER"
 				},
 				{
-					"PackageIdentifier": "Logitech.LogiBolt",
-					"Version": "1.2.6024.0"
+					"PackageIdentifier" : "VideoLAN.VLC"
 				},
 				{
-					"PackageIdentifier": "Logitech.LogiTune",
-					"Version": "3.4.142.0"
+					"PackageIdentifier" : "vim.vim.nightly"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Azure.FunctionsCoreTools",
-					"Version": "4.0.5455"
+					"PackageIdentifier" : "Microsoft.Azure.FunctionsCoreTools"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Azure.StorageExplorer",
-					"Version": "1.32.0"
+					"PackageIdentifier" : "Microsoft.msodbcsql.17"
 				},
 				{
-					"PackageIdentifier": "Microsoft.DevHome",
-					"Version": "0.601.297.0"
+					"PackageIdentifier" : "Oracle.JDK.21"
 				},
 				{
-					"PackageIdentifier": "Microsoft.DotNet.DesktopRuntime.6",
-					"Version": "6.0.25"
+					"PackageIdentifier" : "JohnMacFarlane.Pandoc"
 				},
 				{
-					"PackageIdentifier": "Microsoft.DotNet.SDK.7",
-					"Version": "7.0.404"
+					"PackageIdentifier" : "Microsoft.AzureCLI"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Edge",
-					"Version": "119.0.2151.72"
+					"PackageIdentifier" : "Microsoft.Azure.StorageExplorer"
 				},
 				{
-					"PackageIdentifier": "Microsoft.EdgeWebView2Runtime",
-					"Version": "119.0.2151.72"
+					"PackageIdentifier" : "Logitech.OptionsPlus"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Office",
-					"Version": "16.0.16924.20150"
+					"PackageIdentifier" : "Soulseek.SoulseekQt"
 				},
 				{
-					"PackageIdentifier": "Microsoft.OneDrive",
-					"Version": "23.226.1031.0003"
+					"PackageIdentifier" : "Microsoft.RemoteDesktopClient"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerBI",
-					"Version": "2.123.684.0"
+					"PackageIdentifier" : "Adobe.Acrobat.Reader.64-bit"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerBIReportBuilder",
-					"Version": "15.7.1806.11"
+					"PackageIdentifier" : "SlackTechnologies.Slack"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerShell",
-					"Version": "7.3.9.0"
+					"PackageIdentifier" : "Posit.Quarto"
 				},
 				{
-					"PackageIdentifier": "Microsoft.PowerShell",
-					"Version": "7.4.0.0"
+					"PackageIdentifier" : "Microsoft.PowerBIReportBuilder"
 				},
 				{
-					"PackageIdentifier": "Microsoft.RemoteDesktopClient",
-					"Version": "1.2.4763.0"
+					"PackageIdentifier" : "DaxStudio.DaxStudio"
 				},
 				{
-					"PackageIdentifier": "Microsoft.SQLServerManagementStudio",
-					"Version": "19.2"
+					"PackageIdentifier" : "Microsoft.PowerShell"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams",
-					"Version": "23306.3308.2524.1744"
+					"PackageIdentifier" : "Silicondust.HDHomeRun"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams.Classic",
-					"Version": "1.5.0.4689"
+					"PackageIdentifier" : "AgileBits.1Password"
 				},
 				{
-					"PackageIdentifier": "Microsoft.Teams.Classic",
-					"Version": "1.6.00.29964"
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2013.x64",
-					"Version": "12.0.40664.0"
+					"PackageIdentifier" : "Adobe.CreativeCloud"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2013.x64",
-					"Version": "12.0.40664.0"
+					"PackageIdentifier" : "Amazon.Kindle"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x64",
-					"Version": "14.38.33130.0"
+					"PackageIdentifier" : "JetBrains.DataGrip"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VCRedist.2015+.x86",
-					"Version": "14.38.33130.0"
+					"PackageIdentifier" : "MoritzBunkus.MKVToolNix"
 				},
 				{
-					"PackageIdentifier": "Microsoft.VisualStudioCode",
-					"Version": "1.84.2"
+					"PackageIdentifier" : "Microsoft.Edge"
 				},
 				{
-					"PackageIdentifier": "Microsoft.WindowsTerminal",
-					"Version": "1.18.2822.0"
+					"PackageIdentifier" : "Plex.Plex"
 				},
 				{
-					"PackageIdentifier": "MoritzBunkus.MKVToolNix",
-					"Version": "80.0.0"
+					"PackageIdentifier" : "Libretro.RetroArch"
 				},
 				{
-					"PackageIdentifier": "Mp3tag.Mp3tag",
-					"Version": "3.23"
+					"PackageIdentifier" : "Valve.Steam"
 				},
 				{
-					"PackageIdentifier": "Plex.Plex",
-					"Version": "1.81.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x64"
 				},
 				{
-					"PackageIdentifier": "Plex.Plexamp",
-					"Version": "4.8.4"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.6"
 				},
 				{
-					"PackageIdentifier": "Posit.Quarto",
-					"Version": "1.3.450"
+					"PackageIdentifier" : "Valve.SteamLink"
 				},
 				{
-					"PackageIdentifier": "Python.Launcher",
-					"Version": "3.12.0"
+					"PackageIdentifier" : "Zoom.ZoomOutlookPlugin"
 				},
 				{
-					"PackageIdentifier": "Python.Launcher",
-					"Version": "< 3.12.0"
+					"PackageIdentifier" : "TechSmith.Snagit.2024"
 				},
 				{
-					"PackageIdentifier": "Python.Python.3.11",
-					"Version": "3.11.6"
+					"PackageIdentifier" : "Python.Launcher"
 				},
 				{
-					"PackageIdentifier": "Reolink.Reolink",
-					"Version": "8.14.0"
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.7"
 				},
 				{
-					"PackageIdentifier": "Silicondust.HDHomeRun",
-					"Version": "1.0.40143.0"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.7"
 				},
 				{
-					"PackageIdentifier": "SlackTechnologies.Slack",
-					"Version": "4.35.126"
+					"PackageIdentifier" : "Intel.IntelDriverAndSupportAssistant"
 				},
 				{
-					"PackageIdentifier": "SonicWALL.GlobalVPN",
-					"Version": "4.10.8"
+					"PackageIdentifier" : "Microsoft.DotNet.AspNetCore.7"
 				},
 				{
-					"PackageIdentifier": "Soulseek.SoulseekQt",
-					"Version": "2019.7.22"
+					"PackageIdentifier" : "Microsoft.SQLServerManagementStudio"
 				},
 				{
-					"PackageIdentifier": "Splashtop.SplashtopBusiness",
-					"Version": "3.6.3.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2013.x86"
 				},
 				{
-					"PackageIdentifier": "Tableau.Reader",
-					"Version": "23.2.682"
+					"PackageIdentifier" : "Splashtop.SplashtopBusiness"
 				},
 				{
-					"PackageIdentifier": "Tableau.Reader",
-					"Version": "23.3.345"
+					"PackageIdentifier" : "Microsoft.DotNet.Runtime.8"
 				},
 				{
-					"PackageIdentifier": "TechSmith.Snagit.2024",
-					"Version": "24.0.1.555"
+					"PackageIdentifier" : "Microsoft.PowerBI"
 				},
 				{
-					"PackageIdentifier": "Valve.Steam",
-					"Version": "2.10.91.91"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x64"
 				},
 				{
-					"PackageIdentifier": "Valve.SteamLink",
-					"Version": "1.2.0"
+					"PackageIdentifier" : "Microsoft.VCRedist.2015+.x86"
 				},
 				{
-					"PackageIdentifier": "VideoLAN.VLC",
-					"Version": "3.0.20"
+					"PackageIdentifier" : "Microsoft.DotNet.DesktopRuntime.8"
 				},
 				{
-					"PackageIdentifier": "Zoom.Zoom",
-					"Version": "5.16.6.24712"
+					"PackageIdentifier" : "Plex.Plexamp"
 				},
 				{
-					"PackageIdentifier": "vim.vim",
-					"Version": "9.0.2087"
+					"PackageIdentifier" : "dbeaver.dbeaver"
+				},
+				{
+					"PackageIdentifier" : "Databricks.DatabricksCLI"
+				},
+				{
+					"PackageIdentifier" : "GitHub.GitHubDesktop"
+				},
+				{
+					"PackageIdentifier" : "MullvadVPN.MullvadBrowser"
+				},
+				{
+					"PackageIdentifier" : "TIDALMusicAS.TIDAL"
+				},
+				{
+					"PackageIdentifier" : "Zoom.Zoom.EXE"
+				},
+				{
+					"PackageIdentifier" : "Balena.Etcher"
+				},
+				{
+					"PackageIdentifier" : "Obsidian.Obsidian"
+				},
+				{
+					"PackageIdentifier" : "Python.Python.3.11"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerToys"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Teams"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.AppInstaller"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.7"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.UI.Xaml.2.8"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VCLibs.Desktop.14"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DevHome"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WSL"
+				},
+				{
+					"PackageIdentifier" : "Debian.Debian"
 				}
 			],
-			"SourceDetails": {
-				"Argument": "https://cdn.winget.microsoft.com/cache",
-				"Identifier": "Microsoft.Winget.Source_8wekyb3d8bbwe",
-				"Name": "winget",
-				"Type": "Microsoft.PreIndexed.Package"
+			"SourceDetails" : 
+			{
+				"Argument" : "https://cdn.winget.microsoft.com/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
 			}
 		}
 	],
-	"WinGetVersion": "1.6.3133"
+	"WinGetVersion" : "1.10.340"
 }
